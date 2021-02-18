@@ -1,0 +1,11 @@
+1)
+touch reponses_exo1.txt
+2)
+mkdir cc_unix 
+cd cc_unix
+3)
+for((i=1;i<4;i=i+1)); do mkdir exo$i; done
+4)
+mv ../reponses_exo1.txt ./exo1/
+5)
+find / -type f \( -name "*.jpg" -o -name "*.png" \) -size +100k 2>/dev/null

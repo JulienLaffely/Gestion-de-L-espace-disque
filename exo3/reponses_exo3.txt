@@ -1,0 +1,8 @@
+1)
+touch ./exo3/reponses_exo3.txt
+2)
+tar -cvf cc_unix_Laffely.Julien.tar cc_unix/
+3)
+tar zcvf cc_unix_Laffely.Julien.tar.gz cc_unix_Laffely.Julien.tar
+4)
+tar -tf cc_unix_Laffely.Julien.tar
